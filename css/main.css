@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.s_up{
+    display: none;
+    position: fixed;
+    bottom: 5px;
+    right: 10px;
+    padding: 10px;
+    background-color: tomato;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
